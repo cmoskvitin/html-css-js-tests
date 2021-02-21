@@ -42,17 +42,16 @@ li {
 .header__wrapper {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     position: relative;
+    padding: 10px 0px 10px 0px;
 }
 
 .header__logo {
-    padding: 24px 0px 21px 0px;
     font-size: 0;
 }
 
 .header__menu {
-    margin-top: auto;
-    margin-bottom: 18px
 }
 
 .header__menu li {
